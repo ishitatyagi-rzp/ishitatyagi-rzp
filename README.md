@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **📫 Reach me at **ishita17ty@gmail.com** 💼 LinkedIn: https://linkedin.com/in/ishita17tyagi**
 
-- 📄 View my resume [here](https://drive.google.com/file/d/1ShsF1Op61I9zIYhdD9ssOoMj5qS4gaUe/view?usp=drivesdk)
+- 📄 View my resume [here](https://drive.google.com/drive/folders/1TU5A6rsh6HynEwC4nhfmrLtqcRLU7aad)
 
 - ⚡ Fun fact **I love turning slow distributed systems into fast ones.**
 
